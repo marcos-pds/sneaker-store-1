@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{641A8D7C-FCDB-4383-A523-6A44A75319AF}|SneakerStore.API\\SneakerStore.API.csproj|c:\\users\\marcos pl\\sneaker-store\\sneakerstore.backend\\sneakerstore.api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641A8D7C-FCDB-4383-A523-6A44A75319AF}|SneakerStore.API\\SneakerStore.API.csproj|solutionrelative:sneakerstore.api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641A8D7C-FCDB-4383-A523-6A44A75319AF}|SneakerStore.API\\SneakerStore.API.csproj|c:\\users\\marcos pl\\sneaker-store\\sneakerstore.backend\\sneakerstore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641A8D7C-FCDB-4383-A523-6A44A75319AF}|SneakerStore.API\\SneakerStore.API.csproj|solutionrelative:sneakerstore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E072D84-1BE8-4CEE-91F0-0E7C2C518CEC}|SneakerStore.Infrastructure\\SneakerStore.Infrastructure.csproj|c:\\users\\marcos pl\\sneaker-store\\sneakerstore.backend\\sneakerstore.infrastructure\\services\\dropshippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E072D84-1BE8-4CEE-91F0-0E7C2C518CEC}|SneakerStore.Infrastructure\\SneakerStore.Infrastructure.csproj|solutionrelative:sneakerstore.infrastructure\\services\\dropshippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C696DDB7-FF86-4E07-BF66-29AC707FC56A}|SneakerStore.Domain\\SneakerStore.Domain.csproj|c:\\users\\marcos pl\\sneaker-store\\sneakerstore.backend\\sneakerstore.domain\\dtos\\trackingupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C696DDB7-FF86-4E07-BF66-29AC707FC56A}|SneakerStore.Domain\\SneakerStore.Domain.csproj|solutionrelative:sneakerstore.domain\\dtos\\trackingupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641A8D7C-FCDB-4383-A523-6A44A75319AF}|SneakerStore.API\\SneakerStore.API.csproj|c:\\users\\marcos pl\\sneaker-store\\sneakerstore.backend\\sneakerstore.api\\controllers\\supplierwebhookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641A8D7C-FCDB-4383-A523-6A44A75319AF}|SneakerStore.API\\SneakerStore.API.csproj|solutionrelative:sneakerstore.api\\controllers\\supplierwebhookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C696DDB7-FF86-4E07-BF66-29AC707FC56A}|SneakerStore.Domain\\SneakerStore.Domain.csproj|c:\\users\\marcos pl\\sneaker-store\\sneakerstore.backend\\sneakerstore.domain\\dtos\\aliexpressorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C696DDB7-FF86-4E07-BF66-29AC707FC56A}|SneakerStore.Domain\\SneakerStore.Domain.csproj|solutionrelative:sneakerstore.domain\\dtos\\aliexpressorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C696DDB7-FF86-4E07-BF66-29AC707FC56A}|SneakerStore.Domain\\SneakerStore.Domain.csproj|c:\\users\\marcos pl\\sneaker-store\\sneakerstore.backend\\sneakerstore.domain\\dtos\\cardpaymentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C696DDB7-FF86-4E07-BF66-29AC707FC56A}|SneakerStore.Domain\\SneakerStore.Domain.csproj|solutionrelative:sneakerstore.domain\\dtos\\cardpaymentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C696DDB7-FF86-4E07-BF66-29AC707FC56A}|SneakerStore.Domain\\SneakerStore.Domain.csproj|c:\\users\\marcos pl\\sneaker-store\\sneakerstore.backend\\sneakerstore.domain\\dtos\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C696DDB7-FF86-4E07-BF66-29AC707FC56A}|SneakerStore.Domain\\SneakerStore.Domain.csproj|solutionrelative:sneakerstore.domain\\dtos\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C696DDB7-FF86-4E07-BF66-29AC707FC56A}|SneakerStore.Domain\\SneakerStore.Domain.csproj|c:\\users\\marcos pl\\sneaker-store\\sneakerstore.backend\\sneakerstore.domain\\dtos\\paymentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C696DDB7-FF86-4E07-BF66-29AC707FC56A}|SneakerStore.Domain\\SneakerStore.Domain.csproj|solutionrelative:sneakerstore.domain\\dtos\\paymentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C696DDB7-FF86-4E07-BF66-29AC707FC56A}|SneakerStore.Domain\\SneakerStore.Domain.csproj|c:\\users\\marcos pl\\sneaker-store\\sneakerstore.backend\\sneakerstore.domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C696DDB7-FF86-4E07-BF66-29AC707FC56A}|SneakerStore.Domain\\SneakerStore.Domain.csproj|solutionrelative:sneakerstore.domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641A8D7C-FCDB-4383-A523-6A44A75319AF}|SneakerStore.API\\SneakerStore.API.csproj|c:\\users\\marcos pl\\sneaker-store\\sneakerstore.backend\\sneakerstore.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641A8D7C-FCDB-4383-A523-6A44A75319AF}|SneakerStore.API\\SneakerStore.API.csproj|solutionrelative:sneakerstore.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641A8D7C-FCDB-4383-A523-6A44A75319AF}|SneakerStore.API\\SneakerStore.API.csproj|c:\\users\\marcos pl\\sneaker-store\\sneakerstore.backend\\sneakerstore.api\\sneakerstore.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{641A8D7C-FCDB-4383-A523-6A44A75319AF}|SneakerStore.API\\SneakerStore.API.csproj|solutionrelative:sneakerstore.api\\sneakerstore.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E072D84-1BE8-4CEE-91F0-0E7C2C518CEC}|SneakerStore.Infrastructure\\SneakerStore.Infrastructure.csproj|c:\\users\\marcos pl\\sneaker-store\\sneakerstore.backend\\sneakerstore.infrastructure\\sneakerstore.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E072D84-1BE8-4CEE-91F0-0E7C2C518CEC}|SneakerStore.Infrastructure\\SneakerStore.Infrastructure.csproj|solutionrelative:sneakerstore.infrastructure\\sneakerstore.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E072D84-1BE8-4CEE-91F0-0E7C2C518CEC}|SneakerStore.Infrastructure\\SneakerStore.Infrastructure.csproj|c:\\users\\marcos pl\\sneaker-store\\sneakerstore.backend\\sneakerstore.infrastructure\\services\\aliexpressimporterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E072D84-1BE8-4CEE-91F0-0E7C2C518CEC}|SneakerStore.Infrastructure\\SneakerStore.Infrastructure.csproj|solutionrelative:sneakerstore.infrastructure\\services\\aliexpressimporterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641A8D7C-FCDB-4383-A523-6A44A75319AF}|SneakerStore.API\\SneakerStore.API.csproj|c:\\users\\marcos pl\\sneaker-store\\sneakerstore.backend\\sneakerstore.api\\controllers\\sneakercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641A8D7C-FCDB-4383-A523-6A44A75319AF}|SneakerStore.API\\SneakerStore.API.csproj|solutionrelative:sneakerstore.api\\controllers\\sneakercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C696DDB7-FF86-4E07-BF66-29AC707FC56A}|SneakerStore.Domain\\SneakerStore.Domain.csproj|c:\\users\\marcos pl\\sneaker-store\\sneakerstore.backend\\sneakerstore.domain\\sneaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C696DDB7-FF86-4E07-BF66-29AC707FC56A}|SneakerStore.Domain\\SneakerStore.Domain.csproj|solutionrelative:sneakerstore.domain\\sneaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641A8D7C-FCDB-4383-A523-6A44A75319AF}|SneakerStore.API\\SneakerStore.API.csproj|c:\\users\\marcos pl\\sneaker-store\\sneakerstore.backend\\sneakerstore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{641A8D7C-FCDB-4383-A523-6A44A75319AF}|SneakerStore.API\\SneakerStore.API.csproj|solutionrelative:sneakerstore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D5EDC6-9B32-4C66-8EAC-4A601B148F92}|SneakerStore.Application\\SneakerStore.Application.csproj|c:\\users\\marcos pl\\sneaker-store\\sneakerstore.backend\\sneakerstore.application\\sneakerstore.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6D5EDC6-9B32-4C66-8EAC-4A601B148F92}|SneakerStore.Application\\SneakerStore.Application.csproj|solutionrelative:sneakerstore.application\\sneakerstore.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E072D84-1BE8-4CEE-91F0-0E7C2C518CEC}|SneakerStore.Infrastructure\\SneakerStore.Infrastructure.csproj|c:\\users\\marcos pl\\sneaker-store\\sneakerstore.backend\\sneakerstore.infrastructure\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E072D84-1BE8-4CEE-91F0-0E7C2C518CEC}|SneakerStore.Infrastructure\\SneakerStore.Infrastructure.csproj|solutionrelative:sneakerstore.infrastructure\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AliExpressOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.Domain\\DTOs\\AliExpressOrderDto.cs",
+              "RelativeDocumentMoniker": "SneakerStore.Domain\\DTOs\\AliExpressOrderDto.cs",
+              "ToolTip": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.Domain\\DTOs\\AliExpressOrderDto.cs",
+              "RelativeToolTip": "SneakerStore.Domain\\DTOs\\AliExpressOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T06:49:24.971Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.API\\Program.cs",
+              "RelativeDocumentMoniker": "SneakerStore.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.API\\Program.cs",
+              "RelativeToolTip": "SneakerStore.API\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwC8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T05:44:25.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DropshippingService.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.Infrastructure\\Services\\DropshippingService.cs",
+              "RelativeDocumentMoniker": "SneakerStore.Infrastructure\\Services\\DropshippingService.cs",
+              "ToolTip": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.Infrastructure\\Services\\DropshippingService.cs",
+              "RelativeToolTip": "SneakerStore.Infrastructure\\Services\\DropshippingService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAqwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T06:33:43.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.API\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "SneakerStore.API\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.API\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "SneakerStore.API\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAADIBAAAAAAAAAAAAAFMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T06:28:48.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrackingUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.Domain\\DTOs\\TrackingUpdateDto.cs",
+              "RelativeDocumentMoniker": "SneakerStore.Domain\\DTOs\\TrackingUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.Domain\\DTOs\\TrackingUpdateDto.cs",
+              "RelativeToolTip": "SneakerStore.Domain\\DTOs\\TrackingUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T05:26:31.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SupplierWebhookController.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.API\\Controllers\\SupplierWebhookController.cs",
+              "RelativeDocumentMoniker": "SneakerStore.API\\Controllers\\SupplierWebhookController.cs",
+              "ToolTip": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.API\\Controllers\\SupplierWebhookController.cs",
+              "RelativeToolTip": "SneakerStore.API\\Controllers\\SupplierWebhookController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T07:05:25.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CardPaymentRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.Domain\\DTOs\\CardPaymentRequestDto.cs",
+              "RelativeDocumentMoniker": "SneakerStore.Domain\\DTOs\\CardPaymentRequestDto.cs",
+              "ToolTip": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.Domain\\DTOs\\CardPaymentRequestDto.cs",
+              "RelativeToolTip": "SneakerStore.Domain\\DTOs\\CardPaymentRequestDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA8wBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T04:13:28.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.Domain\\DTOs\\OrderCreateDto.cs",
+              "RelativeDocumentMoniker": "SneakerStore.Domain\\DTOs\\OrderCreateDto.cs",
+              "ToolTip": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.Domain\\DTOs\\OrderCreateDto.cs",
+              "RelativeToolTip": "SneakerStore.Domain\\DTOs\\OrderCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T04:53:29.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.Domain\\DTOs\\PaymentRequestDto.cs",
+              "RelativeDocumentMoniker": "SneakerStore.Domain\\DTOs\\PaymentRequestDto.cs",
+              "ToolTip": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.Domain\\DTOs\\PaymentRequestDto.cs",
+              "RelativeToolTip": "SneakerStore.Domain\\DTOs\\PaymentRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T06:29:46.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.Domain\\Order.cs",
+              "RelativeDocumentMoniker": "SneakerStore.Domain\\Order.cs",
+              "ToolTip": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.Domain\\Order.cs",
+              "RelativeToolTip": "SneakerStore.Domain\\Order.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAA0wFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T06:33:11.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "SneakerStore.API\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "SneakerStore.API\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T06:45:37.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SneakerStore.API",
+              "DocumentMoniker": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.API\\SneakerStore.API.csproj",
+              "RelativeDocumentMoniker": "SneakerStore.API\\SneakerStore.API.csproj",
+              "ToolTip": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.API\\SneakerStore.API.csproj",
+              "RelativeToolTip": "SneakerStore.API\\SneakerStore.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-12T06:37:41.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SneakerStore.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.Infrastructure\\SneakerStore.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "SneakerStore.Infrastructure\\SneakerStore.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.Infrastructure\\SneakerStore.Infrastructure.csproj",
+              "RelativeToolTip": "SneakerStore.Infrastructure\\SneakerStore.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-13T03:52:42.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AliExpressImporterService.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.Infrastructure\\Services\\AliExpressImporterService.cs",
+              "RelativeDocumentMoniker": "SneakerStore.Infrastructure\\Services\\AliExpressImporterService.cs",
+              "ToolTip": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.Infrastructure\\Services\\AliExpressImporterService.cs",
+              "RelativeToolTip": "SneakerStore.Infrastructure\\Services\\AliExpressImporterService.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAlwJYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T03:53:26.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SneakerController.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.API\\Controllers\\SneakerController.cs",
+              "RelativeDocumentMoniker": "SneakerStore.API\\Controllers\\SneakerController.cs",
+              "ToolTip": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.API\\Controllers\\SneakerController.cs",
+              "RelativeToolTip": "SneakerStore.API\\Controllers\\SneakerController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAlwH0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T05:32:57.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Sneaker.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.Domain\\Sneaker.cs",
+              "RelativeDocumentMoniker": "SneakerStore.Domain\\Sneaker.cs",
+              "ToolTip": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.Domain\\Sneaker.cs",
+              "RelativeToolTip": "SneakerStore.Domain\\Sneaker.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T05:39:29.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.API\\appsettings.json",
+              "RelativeDocumentMoniker": "SneakerStore.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.API\\appsettings.json",
+              "RelativeToolTip": "SneakerStore.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-12T06:43:13.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SneakerStore.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.Application\\SneakerStore.Application.csproj",
+              "RelativeDocumentMoniker": "SneakerStore.Application\\SneakerStore.Application.csproj",
+              "ToolTip": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.Application\\SneakerStore.Application.csproj",
+              "RelativeToolTip": "SneakerStore.Application\\SneakerStore.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-14T02:49:03.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MongoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.Infrastructure\\MongoDbContext.cs",
+              "RelativeDocumentMoniker": "SneakerStore.Infrastructure\\MongoDbContext.cs",
+              "ToolTip": "C:\\Users\\Marcos PL\\sneaker-store\\SneakerStore.Backend\\SneakerStore.Infrastructure\\MongoDbContext.cs",
+              "RelativeToolTip": "SneakerStore.Infrastructure\\MongoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T06:40:07.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

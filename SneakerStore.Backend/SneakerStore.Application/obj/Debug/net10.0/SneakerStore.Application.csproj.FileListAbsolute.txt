@@ -1,0 +1,15 @@
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Application\bin\Debug\net10.0\SneakerStore.Application.deps.json
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Application\bin\Debug\net10.0\SneakerStore.Application.dll
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Application\bin\Debug\net10.0\SneakerStore.Application.pdb
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Application\bin\Debug\net10.0\SneakerStore.Domain.dll
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Application\bin\Debug\net10.0\SneakerStore.Domain.pdb
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Application\obj\Debug\net10.0\SneakerStore.Application.csproj.AssemblyReference.cache
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Application\obj\Debug\net10.0\SneakerStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Application\obj\Debug\net10.0\SneakerStore.Application.AssemblyInfoInputs.cache
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Application\obj\Debug\net10.0\SneakerStore.Application.AssemblyInfo.cs
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Application\obj\Debug\net10.0\SneakerStore.Application.csproj.CoreCompileInputs.cache
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Application\obj\Debug\net10.0\SneakerS.AB9C684A.Up2Date
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Application\obj\Debug\net10.0\SneakerStore.Application.dll
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Application\obj\Debug\net10.0\refint\SneakerStore.Application.dll
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Application\obj\Debug\net10.0\SneakerStore.Application.pdb
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Application\obj\Debug\net10.0\ref\SneakerStore.Application.dll

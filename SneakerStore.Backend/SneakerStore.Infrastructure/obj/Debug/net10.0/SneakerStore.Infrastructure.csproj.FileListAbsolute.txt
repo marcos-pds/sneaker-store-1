@@ -1,0 +1,17 @@
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Infrastructure\bin\Debug\net10.0\SneakerStore.Infrastructure.deps.json
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Infrastructure\bin\Debug\net10.0\SneakerStore.Infrastructure.dll
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Infrastructure\bin\Debug\net10.0\SneakerStore.Infrastructure.pdb
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Infrastructure\bin\Debug\net10.0\SneakerStore.Application.dll
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Infrastructure\bin\Debug\net10.0\SneakerStore.Domain.dll
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Infrastructure\bin\Debug\net10.0\SneakerStore.Application.pdb
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Infrastructure\bin\Debug\net10.0\SneakerStore.Domain.pdb
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Infrastructure\obj\Debug\net10.0\SneakerStore.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Infrastructure\obj\Debug\net10.0\SneakerStore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Infrastructure\obj\Debug\net10.0\SneakerStore.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Infrastructure\obj\Debug\net10.0\SneakerStore.Infrastructure.AssemblyInfo.cs
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Infrastructure\obj\Debug\net10.0\SneakerStore.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Infrastructure\obj\Debug\net10.0\SneakerS.E0A8A6A2.Up2Date
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Infrastructure\obj\Debug\net10.0\SneakerStore.Infrastructure.dll
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Infrastructure\obj\Debug\net10.0\refint\SneakerStore.Infrastructure.dll
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Infrastructure\obj\Debug\net10.0\SneakerStore.Infrastructure.pdb
+C:\Users\Marcos PL\sneaker-store\SneakerStore.Backend\SneakerStore.Infrastructure\obj\Debug\net10.0\ref\SneakerStore.Infrastructure.dll
